@@ -1,36 +1,36 @@
 .hero {
-   height:100vmin ;
-    background-image: url(https://picsum.photos/id/230/3500/3500);
+      background-image: url(https://picsum.photos/id/230/3500/3500);
+      height:100vmin ;
     background-size: cover;
     background-position: center;
  }
 .div-1 {
-   height:100vmin ;
        background-image: url(https://picsum.photos/id/11/3500/3500);
+      height:800px ;
        background-size: cover;
        background-position: center;
     }
     .div-2 {
-      height:100vmin ;
        background-image: url(https://picsum.photos/id/12/3500/3500);
+       height:800px ;
        background-size: cover;
        background-position: center;
     }
     .div-3 {
-      height:100vmin ;
        background-image: url(https://picsum.photos/id/231/3500/3500);
+       height:800px ;
        background-size: cover;
        background-position: center;
     }
     .div-4 {
-      height:100vmin ;
        background-image: url(https://picsum.photos/id/666/3500/3500);
+       height:800px ;
        background-size: cover;
        background-position: center;
     }
     .div-5 {
-      height:100vmin ;
        background-image: url(https://picsum.photos/id/991/3500/3500);
+       height:800px ;
        background-size: cover;
        background-position: center;
     }
