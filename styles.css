@@ -1,0 +1,24 @@
+.hero {
+   height:100vmin ;
+    background-image: url(https://picsum.photos/id/231/2500/600);
+    background-size: cover;
+    background-position: center;
+ }
+.div-1 {
+   height:100vmin ;
+       background-image: url(https://picsum.photos/id/237/2500/600);
+       background-size: cover;
+       background-position: center;
+    }
+    .div-2 {
+      height:100vmin ;
+       background-image: url(https://picsum.photos/id/232/2500/600);
+       background-size: cover;
+       background-position: center;
+    }
+    .div-3 {
+      height:100vmin ;
+       background-image: url(https://picsum.photos/id/231/2500/600);
+       background-size: cover;
+       background-position: center;
+    }
