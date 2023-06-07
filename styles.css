@@ -1,9 +1,12 @@
-/* .hero {
-      background-image: url(https://picsum.photos/id/230/3500/3500);
-      height:100vmin ;
-    background-size: cover;
-    background-position: center;
- } */
+.hero {
+   position: relative;
+ }
+ 
+ .hero .container.garden {
+   left: 50%;
+   top: 40%;
+   transform: translate(-50%, -50%);
+ }
  
 .div-1 {
        background-image: url(https://picsum.photos/id/11/3500/3500);
@@ -59,3 +62,4 @@
       justify-content: center;
       align-items: center;
     }
+    
