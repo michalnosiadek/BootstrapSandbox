@@ -42,3 +42,9 @@
     .c-item{
       height: 100vmin
     }
+    .footer-img{
+      background-image: url(https://picsum.photos/id//3500/3500);
+      height:100px ;
+      background-size: cover;
+      background-position: center;
+    }
